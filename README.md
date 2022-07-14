@@ -8,4 +8,9 @@ The MNIST database contains 60,000 training images and 10,000 testing images. Ha
 
 ![](images/mnist.png)
 
-Each example in this dataset has an input of 28x28 pixel of a handwritten number image.
+Each example in this dataset has an input of 28x28 pixel of a handwritten number image. So don't forget to resize the image of the handwritten number before feeding it to the model to predict. 
+
+I am using Paint program to draw the handwritten numbers and resize it to be 28x28 pixels before passing it to the model.
+
+# Project Video
+Here is a link for the project video >> [LINK](https://drive.google.com/file/d/1KFV_lkUZzCzwTrGPdO2u20HTngUG45iu/view?usp=sharing)
