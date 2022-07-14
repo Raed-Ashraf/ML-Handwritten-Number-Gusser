@@ -12,5 +12,11 @@ Each example in this dataset has an input of 28x28 pixel of a handwritten number
 
 I am using Paint program to draw the handwritten numbers and resize it to be 28x28 pixels before passing it to the model.
 
+# Project Steps
+All you need to test the project yourself is:
+* Run the model python file (at which you build the model and train it on the mnist dataset) 
+* open Paint program to write a number and save it in the location of the project.
+* Run the main python file (at which you use the model to test the handwritten number image you wrote in Paint program)
+
 # Project Video
 Here is a link for the project video >> [LINK](https://drive.google.com/file/d/1KFV_lkUZzCzwTrGPdO2u20HTngUG45iu/view?usp=sharing)
